@@ -1,21 +1,23 @@
 {
   "heads": [
-    { "name": "Egotistical", "power": 5 },
-    { "name": "Sneaky", "power": 12 },
-    { "name": "Rebellious", "power": 9 },
-    { "name": "Extraterrestrial", "power": 15 },
-    { "name": "Mischievous", "power": 7 }
+    { "name": "Egotistical", "power": 35 },
+    { "name": "Sneaky", "power": 25 },
+    { "name": "Rebellious", "power": 15 },
+    { "name": "Extraterrestrial", "power": 50 },
+    { "name": "Mischievous", "power": 100 }
   ],
   "bodies": [
-    { "name": "Emo", "power": 6 },
-    { "name": "Elegant", "power": 10 },
-    { "name": "Sporty", "power": 8 },
-    { "name": "Heroic", "power": 14 }
+    { "name": "Emo", "power": 15 },
+    { "name": "Elegant", "power": 35 },
+    { "name": "Sporty", "power": 25 },
+    { "name": "Heroic", "power": 50 },
+    { "name": "Tactical", "power": 45 }
   ],
   "weapons": [
-    { "name": "Swordsman", "power": 10 },
-    { "name": "Shooter", "power": 7 },
-    { "name": "Ninja", "power": 13 },
-    { "name": "Squabbler", "power": 4 }
+    { "name": "Swordsman", "power": 30 },
+    { "name": "Shooter", "power": 10 },
+    { "name": "Ninja", "power": 25 },
+    { "name": "Squabbler", "power": 45 },
+    { "name": "Munch", "power": 3 }
   ]
 }
